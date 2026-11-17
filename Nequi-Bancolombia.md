@@ -1,4 +1,4 @@
-# Arquitectura Empresarial TOGAF ADM para la independencia tecnológica y operativa de Nequi
+# Arquitectura Empresarial TOGAF  para la independencia tecnológica y operativa de Nequi
 
 ![Universidad Central](assets/image1.png)
 
